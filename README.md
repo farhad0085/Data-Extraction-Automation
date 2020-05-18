@@ -3,6 +3,5 @@
 ## PIP COMMANDS
 ```
 pip install selenium
-pip install xlsxwriter
 pip install openpyxl
 ```
